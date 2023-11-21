@@ -32,7 +32,6 @@ Com desenvolvimento em Camadas e boas práticas com padrões de projetos.
 - Css
 - JavaScript
 - BootStrap
-- 
 
 # Autor
 
